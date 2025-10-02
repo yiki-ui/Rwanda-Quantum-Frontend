@@ -12,8 +12,8 @@ function App() {
   const [backendWaking, setBackendWaking] = useState(false);
   
   const BACKEND_URL = 'https://rwanda-quantum-backend.onrender.com';
-  const WAKE_TIMEOUT = 60000; // 60 seconds for initial wake
-  const SIMULATION_TIMEOUT = 15000; // 15 seconds for simulation once awake
+  const WAKE_TIMEOUT = 60000; 
+  const SIMULATION_TIMEOUT = 15000; 
 
   // Wake up backend on app load
   useEffect(() => {
@@ -56,13 +56,13 @@ function App() {
   const handleSimulation = async (moleculeType) => {
     setLoading(true);
     
-    // If backend isn't ready, immediately use dummy data
+    
     if (!backendReady) {
       console.log('📊 Backend not ready - using demo data');
       setTimeout(() => {
         setSimulationResults(getDummyData(moleculeType));
         setLoading(false);
-      }, 1500); // Simulate some processing time
+      }, 1500); 
       return;
     }
     
