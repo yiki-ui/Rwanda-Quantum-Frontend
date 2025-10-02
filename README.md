@@ -3,39 +3,39 @@
 > **NISR 2025 Big Data Hackathon - Track 5: Open Innovation**  
 > *Quantum Molecular Simulation for Sustainable Agriculture*
 
-## 🚀 Overview
+## Overview
 
 A revolutionary web platform that leverages quantum computing and molecular simulation to design sustainable agricultural solutions for Rwanda. This platform enables precise molecular design of pesticides, nutrient enhancers, and biodegradable materials using both classical and quantum computational methods.
 
-### 🏆 Hackathon Alignment
+### Hackathon Alignment
 
 **Track 5: Open Innovation - Mobile/Web-Based Data Solutions**
-- ✅ Full web-based platform with mobile-responsive design
-- ✅ Utilizes NISR and open datasets for agricultural intelligence  
-- ✅ Addresses Rwanda's development goals (NST2 priorities)
-- ✅ Innovative quantum computing application for agriculture
+- Full web-based platform with mobile-responsive design
+- Utilizes NISR and open datasets for agricultural intelligence  
+- Addresses Rwanda's development goals (NST2 priorities)
+- Innovative quantum computing application for agriculture
 
-## 🎯 Key Features
+## Key Features
 
-### 🌱 Agricultural Solutions
+### Agricultural Solutions
 - **Molecular Pesticide Design** - Targeted, biodegradable pest control
 - **Nutrient Enhancement** - Combat hidden hunger with biofortification
 - **Sustainable Materials** - Biodegradable packaging from agricultural waste
 - **Rwanda-Specific Analytics** - District-level suitability analysis
 
-### ⚛️ Quantum Innovation
+### Quantum Innovation
 - **Quantum-Classical Hybrid Simulations** - VQE algorithm implementation
 - **3D Molecular Visualization** - Interactive WebGL molecule viewer
 - **Real-time Simulation Dashboard** - Agricultural impact metrics
 - **Backend Integration** - FastAPI quantum computation server
 
-### 📊 Data Integration
+### Data Integration
 - Rwanda agricultural database integration
 - District-level crop and pest mapping
 - Real-time simulation results visualization
 - Impact prediction models
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **React 18** - Modern React with hooks
@@ -53,7 +53,7 @@ A revolutionary web platform that leverages quantum computing and molecular simu
 - **Render** - Backend hosting
 - **Netlify/Vercel** - Frontend deployment ready
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 rwanda-quantum-agriculture/
@@ -145,7 +145,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 16+ and npm
@@ -187,7 +187,7 @@ Backend API will be available at [https://rwanda-quantum-backend.onrender.com] o
 
 Backend repository url github [https://github.com/yiki-ui/Rwanda-Quantum-Backend.git]
 
-## 🎮 Usage
+## Usage
 
 ### Running Simulations
 
@@ -219,7 +219,7 @@ Backend repository url github [https://github.com/yiki-ui/Rwanda-Quantum-Backend
 - **Agricultural Impact**: Estimated farmer reach and yield improvement
 - **District Analysis**: Rwanda-specific suitability mapping
 
-## 🔬 Technical Innovation
+## Technical Innovation
 
 ### Quantum Advantage
 - **Variational Quantum Eigensolver (VQE)** for molecular energy calculations
@@ -236,35 +236,35 @@ Backend repository url github [https://github.com/yiki-ui/Rwanda-Quantum-Backend
 - **Crop-season alignment** for practical application
 - **Local pest and nutrient deficiency mapping**
 
-## 📊 Hackathon Evaluation Alignment
+## Hackathon Evaluation Alignment
 
-### ✅ Relevance to Theme (20%)
+### Relevance to Theme (20%)
 - Direct alignment with Track 5: Open Innovation
 - Addresses Rwanda's agricultural challenges
 - Web-based platform with mobile responsiveness
 
-### ✅ Data Utilization and Accuracy (25%)
+### Data Utilization and Accuracy (25%)
 - Integration of Rwanda agricultural databases
 - Quantum-accurate molecular simulations
 - Real-time data processing and visualization
 
-### ✅ User Interface and Experience (15%)
+### User Interface and Experience (15%)
 - Modern, intuitive React interface
 - Advanced 3D molecular visualization
 - Responsive design for all devices
 
-### ✅ Creativity and Innovation (15%)
+### Creativity and Innovation (15%)
 - First quantum computing application for Rwandan agriculture
 - Novel molecular simulation approach to agricultural problems
 - Integration of cutting-edge web technologies
 
-### ✅ Impact and Scalability (25%)
+### Impact and Scalability (25%)
 - Potential to benefit 500,000+ farmers
 - 25% estimated yield improvement
 - 40% reduction in pesticide usage
 - Scalable cloud architecture
 
-## 🏗️ Deployment
+## Deployment
 
 ### Frontend Deployment
 ```bash
@@ -282,7 +282,7 @@ The backend is configured for deployment on Render.com with:
 - CORS configuration for frontend integration
 - Health check endpoints for monitoring
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 ```bash
@@ -294,14 +294,14 @@ PYTHON_VERSION=3.9.0
 REACT_APP_BACKEND_URL=https://rwanda-quantum-backend.onrender.com
 ```
 
-## 📈 Performance Features
+## Performance Features
 
 - **Simulation Caching** - Optimized computation reuse
 - **Progressive Loading** - Smooth user experience
 - **Error Fallbacks** - Graceful degradation
 - **Responsive Design** - Mobile-first approach
 
-## 🤝 Contributing
+## Contributing
 
 This project was developed for the NISR 2025 Big Data Hackathon. Contributions are welcome through:
 
@@ -309,11 +309,11 @@ This project was developed for the NISR 2025 Big Data Hackathon. Contributions a
 2. Create a feature branch
 3. Submit a pull request
 
-## 📄 License
+## License
 
 Apache 2.0 License - See LICENSE file for details.
 
-## 🏆 Hackathon Value Proposition
+## Hackathon Value Proposition
 
 ### Unique Points
 1. **First quantum computing application** for Rwandan agriculture
